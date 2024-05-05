@@ -1,2 +1,2 @@
-# Styling-with-CSS---Project-2
+# HTML Essential Training
 Working on the second project of working with CSS
